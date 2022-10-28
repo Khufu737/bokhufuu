@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+app.whatsbot.me	TRUE	/	FALSE	1999999999	csrftoken	og7np0h9rm23rpd7cubfeja6l3dmqrtc
+app.whatsbot.me	TRUE	/	FALSE	1999999999	token	7a8bec5a5e341ec00dc42cb7b6b425f9
+app.whatsbot.me	TRUE	/	FALSE	1999999999	uid	deleted
+app.whatsbot.me	TRUE	/	FALSE	1999999999	team_id	deleted
+
